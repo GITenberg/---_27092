@@ -1,0 +1,31 @@
+_repo: '---_27092'
+_version: 0.1.0
+alternative_title: Gua Yi Zhi
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhang, Shizheng, active 11th century
+    aliases:
+    - 張師正
+    - Chang, Pu-i
+    - Chang, Shih-cheng
+    - Zhang, Buyi
+    gutenberg_agent_id: '32454'
+    url: http://www.gutenberg.org/2009/agents/32454
+description: ''
+gutenberg_issued: '2008-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27092'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- History -- Song dynasty, 960-1279 -- Anecdotes'
+- !lcc 'PL'
+- !lcsh 'Legends -- China'
+title: 括異志
+url: http://www.gutenberg.org/ebooks/27092
